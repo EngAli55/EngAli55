@@ -1,4 +1,13 @@
-<h1 align="center">Ali Abbas | علي عباس</h1>
+<h1 align="center">
+  <span style="font-family: Georgia, serif;">
+    Ali Abbas | علي عباس
+  </span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Student;Flutter+Developer;Building+Something+Awesome" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Artificial+Intelligence+Specialization;Flutter+Developer;Building+Software+That+Matters" alt="Typing SVG" />
 </p>
